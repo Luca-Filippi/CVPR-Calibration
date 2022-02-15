@@ -224,8 +224,6 @@ for ii=1:length(iimage)
     fill3(proj(1,:),proj(2,:),proj(3,:),'red','FaceAlpha',alpha);
     %plot3(proj(1,:),proj(2,:),proj(3,:),'Color','green');
 
-    %proj2=0.75*proj;
-
     topleftcornerX =65;
     topleftcornerY =65; 
     vX=topleftcornerX+[0 0 l l]; 
