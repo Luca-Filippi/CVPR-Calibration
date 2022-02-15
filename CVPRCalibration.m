@@ -203,7 +203,6 @@ for ii=1:length(iimage)
     hold on
     
     l=100; %lato quadrato
-    w=1;
 
     topleftcornerX =60;
     topleftcornerY =60; 
